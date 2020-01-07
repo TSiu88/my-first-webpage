@@ -1,0 +1,41 @@
+body {
+  background-color: #212F3D;
+  color: #B3B6B7;
+}
+
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+
+h2 {
+  color: plum;
+}
+
+ol {
+  font-size: 30px;
+  font-style: italic;
+}
+
+ul {
+  font-size: 30px;
+  font-style: oblique;
+  color: #58D68D;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+a {
+  color: hotpink;
+}
